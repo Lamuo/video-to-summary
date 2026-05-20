@@ -1,0 +1,17 @@
+# Trascrizione
+faster-whisper
+# oppure, per API OpenAI:
+# openai
+
+# Estrazione keyframe
+scenedetect[opencv]
+
+# Summarization
+google-generativeai
+
+# Vision / image loading
+Pillow
+
+# Utility
+python-dotenv
+tqdm
